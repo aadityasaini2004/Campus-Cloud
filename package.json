@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A Student Exchange Program where student can exchange skills and as well as Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "B.Tech.",
+    "CSE",
+    "(AI",
+    "and",
+    "ML)",
+    "Sem-3",
+    "Aaditya",
+    "Saini"
+  ],
+  "author": "Aaditya Saini",
+  "license": "ISC"
+}
